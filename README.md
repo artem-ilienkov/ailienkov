@@ -15,9 +15,9 @@
 <td style="width: 33.3333%; height: 18px; text-align: center;"><strong>Стек</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;">Расчет показателей юнит-экономики</td>
+<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/artem-ilienkov/sql_function">Расчет показателей юнит-экономики</a></td>
 <td style="width: 33.3333%; height: 18px;">Функция, которая загружает имеющиеся данные,добавляет к ним обновленные и рассчитывает показатели</td>
-<td style="width: 33.3333%; height: 18px;">Pandahouse</td>
+<td style="width: 33.3333%; height: 18px;">pandahouse, sql</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px;"></td>
