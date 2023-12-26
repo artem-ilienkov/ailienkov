@@ -20,9 +20,9 @@
 <td style="width: 33.3333%; height: 18px;">pandahouse, sql</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;"></td>
-<td style="width: 33.3333%; height: 18px;"></td>
-<td style="width: 33.3333%; height: 18px;"></td>
+<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/artem-ilienkov/project_for_practice">Анализ результатов а/в-тестирования</a></td>
+<td style="width: 33.3333%; height: 18px;"><span>Проверить влияние новой механики оплаты на метрики по результатам тестирования</span></td>
+<td style="width: 33.3333%; height: 18px;">pandas, numpy, pingouin, seaborn, scipy, matplotlib</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px;"></td>
